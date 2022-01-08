@@ -1,0 +1,23 @@
+.box1 {
+    display: flex;
+    vertical-align: center;
+    padding: 15px;
+}
+.img img {
+    width: 240px;
+    height: 300px;
+    padding: 15px;
+}
+h3 {
+    padding-left: 700px;
+    vertical-align: middle;
+}
+p {
+    color: white;
+}
+.hehe {
+    vertical-align: middle;
+}
+body {
+    background-color: darkgrey;
+}
